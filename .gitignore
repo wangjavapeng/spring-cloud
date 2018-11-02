@@ -1,0 +1,4 @@
+spring-could-test/eureka-server/target/classes/com/ysetae/eurekaserver/EurekaServerApplication.class
+spring-could-test/service-hi/target/classes/com/yestae/hi/ServiceHiApplication.class
+spring-could-test/service-hi/target/classes/com/yestae/hi/aop/PrintAop.class
+spring-could-test/service-hi/target/classes/com/yestae/hi/controller/HiController.class
