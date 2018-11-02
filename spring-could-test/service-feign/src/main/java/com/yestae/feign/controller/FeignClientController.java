@@ -9,7 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 import com.yestae.feign.api.RemoteFeignApi;
 
 @RestController
-public class FeignClientContriller {
+public class FeignClientController {
 	@Autowired
 	private RemoteFeignApi RemoteFeignApi;
 	
