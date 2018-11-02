@@ -4,3 +4,5 @@ spring cloud 父工程，起到版本控制作用
    	  defaultZone: http://localhost:8761/eureka/
    -- service-hi 子工程 服务提供者
       port: 8766
+   -- service-ribbon 子工程 消费者
+   -- service-feign 子工程 消费者
