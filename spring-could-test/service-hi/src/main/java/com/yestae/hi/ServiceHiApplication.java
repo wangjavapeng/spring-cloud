@@ -1,4 +1,4 @@
-package org.service.hi;
+package com.yestae.hi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

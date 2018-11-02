@@ -1,4 +1,4 @@
-package org.service.hi.controller;
+package com.yestae.hi.controller;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.RequestMapping;
