@@ -16,7 +16,7 @@ import org.springframework.web.context.request.ServletRequestAttributes;
 @Aspect
 @Component
 public class PrintAop {
-	@Pointcut("execution(public * org.service.hi.controller.*.*(..))")
+	@Pointcut("execution(public * com.yestae.hi.controller.*.*(..))")
 	public void printLog(){}
 	
 	@Before("printLog()")
