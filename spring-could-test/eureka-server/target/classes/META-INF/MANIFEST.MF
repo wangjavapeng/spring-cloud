@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: eureka-server
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: wangpeng
+Implementation-Vendor-Id: com.yestae
+Build-Jdk: 1.8.0_144
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-could-test/eureka-server
+Created-By: Maven Integration for Eclipse
+
